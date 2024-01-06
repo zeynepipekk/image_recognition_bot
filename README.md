@@ -36,6 +36,6 @@ Adjust the region coordinates in the script based on the specific area of the sc
 
 For a tutorial on creating these scripts, check out the following YouTube video:
 
-[YouTube Tutorial: Python Image Recognition Bots with PyAutoGUI](<YouTube Video Link>)
+[YouTube Tutorial: Python Image Recognition Bots with PyAutoGUI](https://www.youtube.com/watch?v=YRAIUA-Oc1Y)
 
 Happy coding and image recognition!
